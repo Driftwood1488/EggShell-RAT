@@ -112,7 +112,7 @@ python eggshell.py
 * **cd**             : change directories
 * **ls**             : list contents of directory
 * **rm**             : delete file
-* **pwd**            : get current directory
+* **pwd**            : get  current directory
 * **download**       : download file
 * **upload**         : upload file
 * **getpaste**       : get pasteboard contents
@@ -159,3 +159,4 @@ python eggshell.py
 [YouTube](http://yon.ir/youtube404) - [Aparat](http://www.aparat.com/The404Hacking)
 
 [The404Hacking.BlogSky.Com](http://the404hacking.blogsky.com)
+
